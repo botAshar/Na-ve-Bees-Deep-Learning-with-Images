@@ -11,4 +11,5 @@ In this project the images of bees are recognized and Classifying using a deep c
 * Testing and plotting the accuracy and loss.
 * Generating Predictions
 
+I also demonstrated how the images are transformed in the different layers of neural network as show below:
 ![Transformation of Images in Layers of Neural Network](https://github.com/botAshar/Na-ve-Bees-Deep-Learning-with-Images/blob/main/Layer%20Transformations.jfif)
